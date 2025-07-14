@@ -1,12 +1,8 @@
 # 📊 Consulta BigQuery - Reporte de Servicios
 
-Este proyecto contiene una consulta SQL avanzada diseñada para ejecutarse en **Google BigQuery**. El objetivo principal es demostrar **habilidades en manejo de datos complejos**, incluyendo transformación, filtrado y análisis financiero en entornos de producción.
-
----
-
 ## 🧠 Objetivo
 
-Extraer información detallada de servicios logísticos **tipo Pibox** (B2B), aplicando filtros geográficos, temporales y financieros. La consulta permite:
+Extraer información detallada de servicios logísticos, aplicando filtros geográficos, temporales y financieros. La consulta permite:
 
 - Cruzar datos desde múltiples tablas relacionadas
 - Limpiar y transformar datos estructurados y semiestructurados (JSON)
